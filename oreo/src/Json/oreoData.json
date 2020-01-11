@@ -71,18 +71,7 @@
             "specification": "Simple Black Clock",
             "Actual_Price": "$16.00",
             "Discount_Price": "$13.00"
-        },
-        {
-            "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/1.png",
-            "specification": "Wood Simple Chair V2",
-            "Actual_Price": "$16.00",
-            "Discount_Price": "$13.00"
-        },
-        {
-            "image": "https://thememakker.com/templates/oreo/html/assets/images/ecommerce/1.png",
-            "specification": "Simple Black Clock",
-            "Actual_Price": "$16.00",
-            "Discount_Price": "$13.00"
-        } 
+        }
+       
     ]
 }
